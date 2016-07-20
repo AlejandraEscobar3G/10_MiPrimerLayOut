@@ -1,0 +1,90 @@
+#div{
+	border-top: solid 1px black;
+	border-bottom: solid 1px black;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.p{
+	font-size: x-large;
+	margin: 0%;
+}
+
+.espacio_renglon{
+	margin-top: 4%;
+}
+
+hr{
+	border: 3px solid grey;
+	margin: 0% 41.666665%;
+}
+
+#linea{
+	margin-left: 0px;
+	border-color: black;
+	background-color: black;
+}
+
+.p1{
+	font-size: xx-large;
+	margin: 0% 16.6666665%;
+}
+
+.display{
+	display: inline-block;
+	position: relative;
+}
+
+.div_padre{
+	width: auto;
+	margin: 0% 12.9666665%;
+}
+
+.p_coders{
+	bottom: 10px;
+	position: absolute;
+	right: 10px;
+	font-size: large;
+	color: white;
+}
+
+
+/*Clases para la pagina Coder-detail*/
+
+.div_principal{
+	border: 2px solid grey;
+}
+
+.img_contacto{
+	border-radius: 50%;
+	margin:0% 41.6666665%;
+}
+
+.p_habilidades{
+	background-color:grey; 
+	margin-left: 5%;
+}
+
+.habilidades{
+	height: 70px;
+}
+
+.div_habilidades{
+
+	margin-top: 2%;
+	margin-bottom: 5%;
+}
+
+.img_portafolio{
+	height: 30.333333%;
+	width: 30.333333%;
+}
+
+div.col-12 > div{
+	display: inline;
+	position: relative;
+	margin: 12.2px;
+}
